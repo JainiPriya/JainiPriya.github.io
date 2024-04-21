@@ -1,0 +1,12 @@
+title: My Portfolio Website
+email: lj2330@nyu.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my personal portfolio website. Here you can find information about my projects, skills, and professional interests.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://JainiPriya.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

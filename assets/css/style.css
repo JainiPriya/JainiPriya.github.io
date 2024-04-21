@@ -1,0 +1,192 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #444;
+  }
+  
+  header {
+    background: #333;
+    color: #ffffff;
+    padding: 1rem 0;
+  }
+  
+  header nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .container {
+    max-width: 50%;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  footer {
+    background: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: left;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  /* Add a max-width to your email link to prevent it from stretching too wide on larger screens */
+  footer p {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .container,
+    footer p {
+      width: 90%;
+    }
+  
+    header nav ul li {
+      margin-right: 10px;
+    }
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-top: 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+
+/* About Me section styles */
+.about-me {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+  }
+  
+  .professional-summary {
+    flex: 1;
+    padding-right: 20px; /* Add some space between the text and the image */
+  }
+  
+  .profile-pic {
+    max-width: 150px; /* Set the width of the image */
+    border-radius: 50%;
+    margin-left: auto; /* This will push the image to the right */
+  }
+  
+  /* Timeline and other content alignment */
+  h2 {
+    text-align: left;
+  }
+  
+  p, ul, li {
+    text-align: left;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .about-me {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .professional-summary,
+    .profile-pic {
+      width: 100%;
+      max-width: 100%;
+      padding-right: 0;
+    }
+  
+    .profile-pic {
+      margin-left: 0;
+      margin-bottom: 20px; /* Add some space below the image on small screens */
+    }
+  }
+  
+  .profile-pic img {
+    width: 150px; /* Adjust the width as desired */
+    height: 150px; /* Adjust the height as desired */
+    border-radius: 50%;
+    object-fit: cover; /* This ensures the image maintains its aspect ratio */
+    margin-left: auto; /* Pushes the image to the right */
+    display: block; /* Ensures the margin is applied correctly */
+  }
+
+  .welcome {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 0px;
+}
+
+.welcome-text {
+    flex: 1;
+}
+
+.profile-pic {
+    flex: 0 0 150px; /* Adjust the width as needed */
+    margin-left: 20px;
+}
+
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+    .welcome {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile-pic {
+        flex: none;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+
+    .profile-pic img {
+        max-width: 120px; /* Smaller image for mobile */
+    }
+}
+
+
+  
