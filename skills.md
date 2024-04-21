@@ -6,7 +6,7 @@ permalink: /skills/
 
 # Skills
 
-Equipped with a diverse skill set, I am well-versed in various aspects of software engineering and data analysis. Below is an overview of my capabilities:
+Equipped with a diverse skill set, I am well-versed in various aspects of Software Engineering and Data Science/ML. Below is an overview of my capabilities:
 
 ## Technical Skills
 
