@@ -16,11 +16,11 @@ As a dynamic and skilled software engineer and data scientist, I bring a solid b
 
 ## Opportunities I'm Looking For
 
-I will be graduating in May 2024 and am currently looking for:
+I will be graduating in May 2024 and am currently looking for the following opportunities starting from June 2024 :
 
-- Full-time roles in software development starting from June 2024.
-- Full-time roles in Data Science/ML starting from June 2024.
-- Research opportunities in Machine Learning starting from June 2024.
+- Full-time roles in software development
+- Full-time roles in Data Science/ML
+- Research opportunities in Machine Learning
 
 ## Let's Connect
 
