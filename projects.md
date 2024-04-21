@@ -41,6 +41,10 @@ permalink: /projects/
         <h3>Analysis of Healthcare Access and Mental Health Disparities Using NHIS Data</h3>
         <p>Conducted data analysis on a 27,651-sample NHIS dataset to identify disparities in healthcare access and mental health, utilizing visualization tools like Python, matplotlib, and Tableau to reveal key demographic impacts. Developed predictive models using logistic regression, random forest, and SVM to classify mental health and healthcare access, providing actionable insights for policy intervention. <a href="https://github.com/JainiPriya/NHIS-data-analysis" target="_blank">View on GitHub</a></p>
     </div>
+    <div class="project-card">
+        <h3>COVID-19 Data Visualisation</h3>
+        <p>Implemented Tableau visualizations to analyze COVID-19 mortality trends, highlighting regional disparities and demographic patterns.Created interactive Tableau charts, including maps and time series graphs, to illustrate mortality trends. <a href="https://github.com/JainiPriya/Covid19-Data-Visualization" target="_blank">View on GitHub</a></p>
+    </div>
 </div>
 
 <style>
