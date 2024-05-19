@@ -36,7 +36,7 @@ permalink: /projects/
     <div class="project-card">
         <h3>Image Captioning Service on Google Kubernetes Engine</h3>
         <p>Trained image captioning model using Xception and LSTM networks over 30 epochs, achieving 60% accuracy. Implemented optimization techniques and deployed the model on Google Kubernetes Engine (GKE), ensuring scalability and efficient management of containerized applications for real-world deployment.
-        <a href="https://github.com/JainiPriya/Covid19-Data-Visualization" target="_blank">View on GitHub</a></p>
+        <a href="https://github.com/JainiPriya/Image-Captioning" target="_blank">View on GitHub</a></p>
     </div>
     <div class="project-card">
         <h3>Air Quality Prediction</h3>
