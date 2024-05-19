@@ -34,6 +34,11 @@ permalink: /projects/
         <p>Trained a frame prediction model on a dataset of 13,000 unlabelled videos to predict the 22nd frame from the first 11. Applied results to a semantic segmentation model trained on 1,000 labelled videos to obtain the result mask, leveraging Pytorch and UNet, and SimVP architectures. <a href="https://github.com/JainiPriya/Video-prediction" target="_blank">View on GitHub</a></p>
     </div>
     <div class="project-card">
+        <h3>Image Captioning Service on Google Kubernetes Engine</h3>
+        <p>Trained image captioning model using Xception and LSTM networks over 30 epochs, achieving 60% accuracy. Implemented optimization techniques and deployed the model on Google Kubernetes Engine (GKE), ensuring scalability and efficient management of containerized applications for real-world deployment.
+        <a href="https://github.com/JainiPriya/Covid19-Data-Visualization" target="_blank">View on GitHub</a></p>
+    </div>
+    <div class="project-card">
         <h3>Air Quality Prediction</h3>
         <p>Built a Time Series based Machine Learning prediction model which can predict the quality of air and its constituents with 90% accuracy. Applied ARIMA and Prophet models to the cleaned dataset to devise an adaptive system to achieve maximum accuracy and prime variance.</p>
     </div>
